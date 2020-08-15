@@ -1,6 +1,6 @@
 {
   "name": "basic-rollup-boilerplate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A starter Rollup boilerplate to publish your React components in NPM.",
   "main": "dist/index.js",
   "scripts": {
