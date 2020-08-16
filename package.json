@@ -6,9 +6,11 @@
   "scripts": {
     "build": "rollup -c"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "rollup"
+  ],
+  "author": "John Raptis",
+  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.11.1",
     "@babel/preset-env": "^7.11.0",
