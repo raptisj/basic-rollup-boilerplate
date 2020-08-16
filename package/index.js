@@ -1,9 +1,7 @@
 import React from 'react';
 
 const NPMComponent = () => {
-  return (
-    <div>Hello, Rollup</div>
-  )
-}
+	return <div>Hello, Rollup</div>;
+};
 
-export {NPMComponent} 
+export default NPMComponent;
