@@ -5,7 +5,7 @@ This is the _absolute minimum_ setup you need.
 
 For further explanation you can check the following list of articles.
 
-- _Soon_
+- [Publish a React Component to NPM](https://www.johnraptis.dev/publish-react-component-npm/)
 
 ### Usage
 
