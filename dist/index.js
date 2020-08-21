@@ -1,1 +1,7 @@
-"use strict";var React=require("react");function _interopDefaultLegacy(e){return e&&"object"==typeof e&&"default"in e?e:{default:e}}var React__default=_interopDefaultLegacy(React),NPMComponent=function(){return React__default.default.createElement("div",null,"Hello, Rollup")};module.exports=NPMComponent;
+import React from 'react';
+
+var NPMComponent = function NPMComponent() {
+  return /*#__PURE__*/React.createElement("div", null, "Hello, Rollup");
+};
+
+export default NPMComponent;
